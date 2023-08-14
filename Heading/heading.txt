@@ -1,0 +1,6 @@
+chunkfive
+'Sentinel SSm A' - bold
+AvenirBoldCn - regular
+novecento_widebook - regular
+neue frutiger
+jaf-bernino-sans - 700

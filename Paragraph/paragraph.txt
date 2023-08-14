@@ -1,0 +1,41 @@
+Segoe UI
+Merriweather - regular
+PT Serif - regular
+cabin
+"Droid Serif" - regular
+Montserrat - 200
+charter - 400
+sohne - 700
+fell - 400
+Source Sans Pro" - 400
+Quicksand - 400
+
+
+Roboto Slab" - 400
+lato
+calibri
+hind
+georgia
+Roboto - regular
+AvenirNextLTPro-Bold - bold
+'Droid Sans' - regular
+Open Sans - bold
+graphik - regular
+Raleway - 300
+ubuntu
+Quattrocento Sans - 300
+Bitter - regular
+freight-text-pro - 400
+EB Garamond - 400
+
+
+
+//////////////////////////////////////////////
+for programming:
+fira mono
+inconsolata-g
+operator mono book
+input mono
+source code pro
+ibm plex mono
+consolas
