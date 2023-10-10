@@ -1,7 +1,10 @@
 Segoe UI
 Crimson Text" - 400
+Lora - 600
+Spectral - 400
 system-ui - 400
 adobe-caslon-pro - 400
+Figtree - 400
 source-serif-pro - 400
 Merriweather - regular
 PT Serif - regular
@@ -14,6 +17,7 @@ Source Sans Pro" - 400
 Quicksand - 400
 cabin
 Satoshi - 400
+brandon-grotesque - 700
 
 
 Roboto Slab" - 400
