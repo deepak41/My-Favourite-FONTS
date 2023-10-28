@@ -1,12 +1,15 @@
 Segoe UI
 Crimson Text" - 400
+"Matter SQ" - 400
+lato
 Lora - 600
 Spectral - 400
 system-ui - 400
 adobe-caslon-pro - 400
-Figtree - 400
 source-serif-pro - 400
+Figtree - 400
 Merriweather - regular
+"Euclid Circular A" - 400
 PT Serif - regular
 "Droid Serif" - regular
 Montserrat - 200
@@ -21,7 +24,6 @@ brandon-grotesque - 700
 
 
 Roboto Slab" - 400
-lato
 calibri
 hind
 georgia
