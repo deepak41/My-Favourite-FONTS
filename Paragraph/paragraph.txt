@@ -1,3 +1,4 @@
+AvertaStd - 400
 Segoe UI
 Crimson Text" - 400
 "Matter SQ" - 400
